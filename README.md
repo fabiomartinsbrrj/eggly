@@ -4,3 +4,5 @@ An functional AngularJS application, where you can essentially create, read, upd
 Firstoval I created .gitignore with Node type.
 gitignore -types
 gitignore Node
+
+The division is made  by feature not by type 
